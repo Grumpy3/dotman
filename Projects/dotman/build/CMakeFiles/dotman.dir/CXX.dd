@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/dotman.dir/src/main.cpp.o: dyndep
+
+build CMakeFiles/dotman.dir/src/App.cpp.o: dyndep
+
+build CMakeFiles/dotman.dir/src/cli/ArgumentParser.cpp.o: dyndep
+
+build CMakeFiles/dotman.dir/src/core/Dotfile.cpp.o: dyndep
+
+build CMakeFiles/dotman.dir/src/core/DotfileManager.cpp.o: dyndep
+
+build CMakeFiles/dotman.dir/src/fs/FileSystem.cpp.o: dyndep
+

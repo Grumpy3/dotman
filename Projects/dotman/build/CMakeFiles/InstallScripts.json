@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/piotr/Projects/dotman/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
