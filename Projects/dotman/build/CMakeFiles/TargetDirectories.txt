@@ -1,3 +1,0 @@
-/home/piotr/Projects/dotman/build/CMakeFiles/dotman.dir
-/home/piotr/Projects/dotman/build/CMakeFiles/edit_cache.dir
-/home/piotr/Projects/dotman/build/CMakeFiles/rebuild_cache.dir
